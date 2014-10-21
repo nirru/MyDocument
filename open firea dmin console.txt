@@ -1,0 +1,4 @@
+open fire admin console
+
+username - admin
+password - sonal2781_

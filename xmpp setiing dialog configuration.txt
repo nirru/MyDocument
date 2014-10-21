@@ -1,0 +1,13 @@
+
+When Setting dialog box appear
+ Case 1 : Simulator Configuration
+           enter 10.0.2.2 as host
+           enter 5222 as port
+
+Case 2 : Devive Configuration
+         enter your computer ip adress for example 192.168.0.100
+         enter 5222 as port
+
+in receipnt enter userid@localhost
+for example knikk@localhost  
+         

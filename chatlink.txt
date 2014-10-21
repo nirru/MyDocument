@@ -1,0 +1,4 @@
+http://im-a-developer-too.blogspot.ca/2014/04/creating-android-xmpp-client-using.htm
+http://www.javacodegeeks.com/2010/09/xmpp-im-with-smack-for-java.html
+https://www.youtube.com/watch?v=HJEwlSyEQ8w
+http://www.igniterealtime.org/builds/smack/docs/latest/documentation/extensions/muc.html
